@@ -1,0 +1,14 @@
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\bin\Debug\netstandard2.0\FreeKidsMobile.deps.json
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\bin\Debug\netstandard2.0\FreeKidsMobile.dll
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\bin\Debug\netstandard2.0\ref\FreeKidsMobile.dll
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\bin\Debug\netstandard2.0\FreeKidsMobile.pdb
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\FreeKidsMobile.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\FreeKidsMobile.AssemblyInfo.cs
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\FreeKidsMobile.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\FreeKidsMobile.dll
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\ref\FreeKidsMobile.dll
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\FreeKidsMobile.pdb
+C:\Users\asus\Documents\GitHub\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\FreeKidsMobile\obj\Debug\netstandard2.0\FreeKidsMobile.csprojAssemblyReference.cache

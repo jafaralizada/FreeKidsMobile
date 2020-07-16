@@ -8,14 +8,17 @@ using Xamarin.Forms;
 
 namespace FreeKidsMobile
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
-    // by visiting https://aka.ms/xamarinforms-previewer
+   /// <summary>WebView for MainPage</summary>
+
     [DesignTimeVisible(false)]
     public partial class MainPage : ContentPage
     {
         public MainPage()
         {
             InitializeComponent();
+            var FreeKidsPage = new WebView();
+            FreeKidsPage.Source = "http://freekids.com.tr";
+            Content = FreeKidsPage;
         }
     }
 }

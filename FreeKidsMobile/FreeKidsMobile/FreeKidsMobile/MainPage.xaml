@@ -8,9 +8,7 @@
 
     <StackLayout>
         
-        <Label Text="Welcome to FreeKids App" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+        
     </StackLayout>
 
 </ContentPage>

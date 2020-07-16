@@ -17,7 +17,7 @@ namespace FreeKidsMobile
         {
             InitializeComponent();
             var FreeKidsPage = new WebView();
-            FreeKidsPage.Source = "http://freekids.com.tr";
+            FreeKidsPage.Source = "https://freekids.com.tr";
             Content = FreeKidsPage;
         }
     }
